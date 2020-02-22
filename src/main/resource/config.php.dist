@@ -1,0 +1,7 @@
+<?php
+$config = [
+ 'environment_name' => "@@environment/name@@",
+ 'project_name' => "@@project/name@@",
+ 'repository_name' => "@@repository/name@@"
+];
+print_r($config);
