@@ -1,0 +1,10 @@
+{
+    "name": "justendoherty/testrepo",
+    "authors": [
+        {
+            "name": "Justen Doherty",
+            "email": "justen.doherty@kurtgeiger.com"
+        }
+    ],
+    "require": {}
+}
